@@ -1,0 +1,26 @@
+{
+  "name": "DemoAdclickersbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Stark_nilx",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "coinbase": "^2.0.8",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "hcaptcha": "^0.1.0",
+    "md5": "^2.3.0",
+    "mongoose": "^6.0.4",
+    "telegraf": "^3.38.0",
+    "telejsapi": "^1.0.4",
+    "uuid": "^8.3.2",
+    "validator": "^13.6.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
