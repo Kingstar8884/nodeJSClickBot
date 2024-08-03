@@ -15,7 +15,7 @@
     "express": "^4.17.1",
     "hcaptcha": "^0.1.0",
     "md5": "^2.3.0",
-    "mongoose": "^6.0.4",
+    "mongoose": "^6.11.3",
     "telegraf": "^3.38.0",
     "telejsapi": "^1.0.4",
     "uuid": "^8.3.2",
